@@ -7,3 +7,5 @@ int a;
 printf("hello! world");
 return 0;
 }
+output:- 
+hello! world
