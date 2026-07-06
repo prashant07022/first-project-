@@ -24,3 +24,8 @@ return 0;
 
 ## Output
  hello! world
+
+## Explaination 
+basic structure of c language 
+this is a structure language 
+first step to add header file
