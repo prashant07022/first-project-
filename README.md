@@ -29,3 +29,6 @@ return 0;
 basic structure of c language 
 this is a structure language 
 first step to add header file
+second step add the main function.
+third step to print message 
+forth step is return assign 
